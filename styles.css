@@ -1,0 +1,44 @@
+body{
+    background color: white;
+
+} 
+h1{
+    color:white;
+    text-align:center;
+}
+div.absolute{
+    position:absolute;
+    top:0px;
+    height:92px;
+    width:301;
+    left:-7px;
+}
+body{
+    background color:black;
+}
+div.absolute{
+    position:absolute;
+    top:82px;
+    height:30px;
+    width:104px;
+    left:68px;
+}
+body{
+    background color:red;
+}
+div.absolute{
+    position:absolute;
+    top:38px;
+    height:46px;
+    width:30px;
+    left:74px;
+body{
+    background color:black;
+}
+div.absolute{
+    position:absolute;
+    top:317px;
+    height:116px;
+    width:164px;
+    left:505px;
+}
