@@ -1,2 +1,2 @@
 # Online-Food-Delivary
-A platform ror Delivary of food 
+A platform for Delivary of food 
